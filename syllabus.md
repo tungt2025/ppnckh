@@ -2,7 +2,9 @@
 
 ## **1. Giới thiệu**
 - **Bài toán**: 
-  - Nông nghiệp là ngành kinh tế quan trọng tại Việt Nam, nhưng các bệnh trên cây trồng gây thiệt hại lớn về năng suất và chất lượng. Việc phát hiện sớm và chính xác các bệnh trên cây trồng là một thách thức lớn đối với nông dân.
+  - Nông nghiệp là ngành kinh tế quan trọng tại Việt Nam, nhưng các bệnh trên cây trồng gây thiệt hại lớn về năng suất và chất lượng. Theo báo cáo của **Tổ chức Lương thực và Nông nghiệp Liên Hợp Quốc (FAO)**, mỗi năm, khoảng **20-40% sản lượng cây trồng toàn cầu** bị mất do sâu bệnh và dịch bệnh cây trồng. 
+  - Tại Việt Nam, theo **Bộ Nông nghiệp và Phát triển Nông thôn (MARD)**, bệnh đạo ôn trên lúa gây thiệt hại từ **10-15% năng suất** ở các vùng Đồng bằng sông Cửu Long và Đồng bằng sông Hồng. Bệnh gỉ sắt trên cà phê có thể làm giảm năng suất tới **30%** nếu không được phát hiện và xử lý kịp thời.
+  - Việc phát hiện sớm và chính xác các bệnh trên cây trồng là một thách thức lớn đối với nông dân.
   - Đề tài này tập trung vào việc xây dựng một hệ thống sử dụng **Deep Learning** để chẩn đoán bệnh trên lá cây thông qua hình ảnh, giúp nông dân phát hiện bệnh nhanh chóng và đưa ra biện pháp xử lý kịp thời.
 - **Phạm vi**:
   - Chỉ tập trung vào các loại cây phổ biến tại Việt Nam như: lúa, cà phê, tiêu, thanh long, xoài.
@@ -86,3 +88,5 @@
 - [Transfer Learning with TensorFlow](https://www.tensorflow.org/tutorials/images/transfer_learning)
 - [Flask Documentation](https://flask.palletsprojects.com/)
 - [Streamlit Documentation](https://docs.streamlit.io/)
+- FAO: [Plant Pests and Diseases](https://www.fao.org/news/story/en/item/1187738/icode/)
+- MARD: [Báo cáo về bệnh cây trồng tại Việt Nam](http://www.mard.gov.vn)
